@@ -396,7 +396,7 @@
         2
       </div>
       <div class="gr-step-info">
-          <strong>Gain Insight with traffic reports.</strong> <a href="http://www.georiot.com/Sign-Up">Create a free GeoRiot account</a> and enter your API keys here.
+          <strong>Gain Insight with traffic reports.</strong> <a href="http://www.georiot.com/wordpress-plugin/sign-up">Create a free GeoRiot account</a> and enter your API keys here.
           <a href="#faq-apikeys">Learn how...</a>
 
           <br><br>
@@ -496,7 +496,7 @@
       <p>To get your GeoRiot API Keys, follow these simple steps:
       </p>
       <ol>
-        <li>If you do not have a GeoRiot account, <a href="http://www.georiot.com/Sign-Up">create a free account</a>.</li>
+        <li>If you do not have a GeoRiot account, <a href="http://www.georiot.com/wordpress-plugin/sign-up">create a free account</a>.</li>
 
         <li>Log into your GeoRiot Dashboard, and navigate to the to the Account Tab.</li>
 
