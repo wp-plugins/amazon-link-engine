@@ -1,9 +1,9 @@
 === Amazon Link Engine  ===
 Contributors: GeoRiot
-Tags: amazon, associates, affiliate, localize, link, engine, monetization, globalize, georiot, ale, javascript, marketing 
+Tags: amazon, associates, affiliate, universal, localize, link, engine, monetization, globalize, georiot, ale, javascript 
 Requires at least: 2.7
 Tested up to: 4.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,7 +34,7 @@ As soon as the plugin is installed, your Amazon links are instantly localized ev
 
 = How do I earn commissions from my links? =
 
-To earn affiliate commissions, you first need to [create a free GeoRiot account](http://www.georiot.com/Sign-Up), and connect it to your plugin (detailed instructions can be found in the [FAQ](https://wordpress.org/plugins/amazon-link-engine/faq/)).  Next, add and manage your affiliate tracking parameters for each of the Amazon Associates programs you’ve signed up for within the GeoRiot Dashboard. Once your parameters are added, the Amazon Link Engine will automatically add the correct affiliate ID per country for each click.
+To earn affiliate commissions, you first need to [create a free GeoRiot account](http://www.georiot.com/wordpress-plugin/sign-up), and connect it to your plugin (detailed instructions can be found in the [FAQ](https://wordpress.org/plugins/amazon-link-engine/faq/)).  Next, add and manage your affiliate tracking parameters for each of the Amazon Associates programs you’ve signed up for within the GeoRiot Dashboard. Once your parameters are added, the Amazon Link Engine will automatically add the correct affiliate ID per country for each click.
 
 *Note:* You don’t need to create a GeoRiot account, nor add your affiliate parameters to use this plugin. If you’re only interested in giving your international readers a better experience, this plugin can still be used to make sure each click gets redirected to their local storefront.
 
@@ -64,7 +64,7 @@ There are three easy steps to get the most value from the Amazon Link Engine.
 1. Once activated, your links will automatically be localized from then on.
 
 = To get detailed reporting: =
-1. If you don’t have an account already, [create a free GeoRiot account](http://www.georiot.com/Sign-Up).
+1. If you don’t have an account already, [create a free GeoRiot account](http://www.georiot.com/wordpress-plugin/sign-up).
 1. After signing in, navigate to the Account tab and create a new API token.
 1. Access the Amazon Link Engine Settings through the “Settings” tab within your WordPress dashboard.
 1. Copy the API Key and API Secret into your Amazon Link Engine plugin.
@@ -92,7 +92,7 @@ No, you do NOT need a GeoRiot account to use the Amazon Link Engine plugin.  As 
 
 To get your GeoRiot API Keys, follow these simple steps:
 
-1.     If you do not have a GeoRiot account, [create a free account](http://www.georiot.com/Sign-Up).
+1.     If you do not have a GeoRiot account, [create a free account](http://www.georiot.com/wordpress-plugin/sign-up).
 1.     Log into your GeoRiot Dashboard, and navigate to the to the Account Tab.
 1.     Click the "plus" sign to get your API keys.
 1.     Navigate to the Amazon Link Engine Settings under “Settings” in your WordPress dashboard.
