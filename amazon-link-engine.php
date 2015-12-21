@@ -78,8 +78,10 @@ function georiot_autolinker() {
   <script src="//cdn.georiot.com/snippet.js"></script>
   <script type="text/javascript">
     jQuery(document).ready(function( $ ) {
-      var tsid = <?php echo $gr_use_tsid ?>;
-      Georiot.amazon.convertToGeoRiotLinks(tsid);
+	  if (typeof Georiot != 'undefined') {
+	      var tsid = <?php echo $gr_use_tsid ?>;
+	      Georiot.amazon.convertToGeoRiotLinks(tsid);
+      };
     });
   </script>
 <?php
